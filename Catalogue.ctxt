@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Catalogue
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Catalogue\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Catalogue()
+comment2.params=name\ type\ price
+comment2.target=void\ addPart(java.lang.String,\ java.lang.String,\ double)
+comment3.params=number
+comment3.target=void\ removePart(int)
+comment4.params=choice\ priceFilterMin\ priceFilterMax
+comment4.target=void\ filter(java.lang.String,\ double,\ double)
+comment5.params=choice
+comment5.target=Part\ part(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
